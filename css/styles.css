@@ -114,7 +114,6 @@ img {
     margin: 0 auto;
     margin-bottom: 48px;
 }
-
 .hero-button {
     background-color: #4d5ae5;
     color: #fff;
@@ -160,6 +159,9 @@ img {
 }
 .features-item {
     width: calc((100% - 72px) / 4);
+}
+.features-icon {
+    
 }
 .features-title {
     color: #2E2F42;
