@@ -130,8 +130,7 @@ img {
 /* Hero section */
 .hero-section {
     padding: 188px 0;
-    background-image: linear-gradient(rgba(46, 47, 66, 0.7),  rgba(46, 47, 66, 0.7)), 
-    url(../images/hero-image/people-office\ 1.jpg);
+    background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/hero-image/people-office\ 1.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -380,13 +379,12 @@ img {
 .footer {
     background-color: #2E2F42;
     padding: 100px 0;
-}
-.footer-container {
     display: flex;
     align-items: baseline;
 }
+
 .logo-text-footer {
-    margin-right: 120px
+    margin-right: 120px;
 }
 .footer-text {
     color: #F4F4FD;
@@ -411,9 +409,6 @@ img {
     color: #f4f4fd;
 }
 .text-icon {
-    display: flex;
-    align-items: center;
-    justify-content: center;
     color: #FFFFFF;
     font-size: 16px;
     font-weight: 500;
